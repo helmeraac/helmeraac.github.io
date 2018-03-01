@@ -1,30 +1,17 @@
-## Welcome to GitHub Pages
+## Helmer Andrés Avendaño Vargas
 
 You can use the [editor on GitHub](https://github.com/helmeraac/helmeraac.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Experiencia
+
+- 8 Meses como desarrollador para Vivelab Bogotá en alianza con la Universidad Nacional de Colombia, se realizó un proyecto para la facultad de ingeniería de la universidad con el objetivo de generar ideas de investigación para diferentes temas propuestos. El proyecto se desarrolló en el framework de Laravel basado en PHP y se finalizó en Mayo de 2017, actualmente se utiliza como apoyo en la asignatura Taller de proyectos interdisciplinares.
+
+### Conocimientos
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
